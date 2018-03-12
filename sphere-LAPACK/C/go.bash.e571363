@@ -1,0 +1,2 @@
+[ERR.] PLE 0014 plexec The process terminated abnormally.(rank=0)(nid=0xff070001)(exitstatus=0)(CODE=1885,1966080,0)
+[ERR.] PLE             The program that the user specified may be illegal or inaccessible on the node.(nid=0xff070001)

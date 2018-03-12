@@ -1,0 +1,146 @@
+Job Information
+
+ JOB ID                    : 236962
+ JOB NAME                  : test.sh
+ JOB TYPE                  : BATCH
+ JOB MODEL                 : NM
+ RETRY NUM                 : 0
+ SUB JOB NUM               : -
+ USER                      : w49003a
+ GROUP                     : others
+ RESOURCE UNIT             : cx
+ RESOURCE GROUP            : cx2-debug
+ APRIORITY                 : 127
+ PRIORITY                  : 127
+ SHELL                     : /bin/bash
+ COMMENT                   : 
+ LAST STATE                : RNO
+ STATE                     : EXT
+ PRM DATE                  : 2018/03/09 14:53:51
+ EXIT CODE                 : 0
+ SIGNAL NO                 : 0
+ PJM CODE                  : 0
+ REASON                    : -
+ MAIL SEND FLAG            : ----
+ MAIL ADDRESS              : w49003a
+ STEP DEPENDENCY EXP       : -
+ STEP EXITING WAIT MODE    : -
+ FILE MASK                 : 0022
+ STANDARD OUT FILE         : /home/usr3/w49003a/test.sh.o236962
+ STANDARD ERR FILE         : /home/usr3/w49003a/test.sh.o236962
+ INFORMATION FILE          : /home/usr3/w49003a/test.sh.i236962
+ PJSUB DIRECTORY           : /home/usr3/w49003a
+ FILE SYSTEM NAME          : 
+ APPLICATION NAME          : 
+ ACCEPT DATE               : 2018/03/09 14:47:41
+ QUEUED DATE               : 2018/03/09 14:47:41
+ EXIT DATE                 : 2018/03/09 14:53:51
+ LAST HOLD USER            : 
+ HOLD NUM                  : 0
+ HOLD TIME                 : 00:00:00 (0)
+ JOB START DATE            : 2018/03/09 14:53:51
+ JOB END DATE              : 2018/03/09 14:53:51
+ JOB DELETE DATE (REQUIRE) : -
+ JOB DELETE DATE           : -
+ NODE NUM (REQUIRE)        : -
+ VNODE NUM (ALLOC)         : 1
+ CPU NUM (REQUIRE)         : 1 <DEFAULT>
+ ELAPSE TIME (LIMIT)       : 00:10:00 (600)
+ MEMORY SIZE (LIMIT)       : unlimited <DEFAULT>
+ DISK SIZE (LIMIT)         : unlimited <DEFAULT>
+ CPU TIME (LIMIT)          : unlimited <DEFAULT>
+ PROC CPU LIMIT            : unlimited <DEFAULT>
+ PROC COREFILE LIMIT       : 0.0 MB (0) <DEFAULT>
+ PROC CREATE PROC LIMIT    : unlimited <DEFAULT>
+ PROC DATA LIMIT           : unlimited <DEFAULT>
+ PROC LOCKED MEMORY LIMIT  : 65536.0 MiB (68719476736) <DEFAULT>
+ PROC MESSAGE QUEUE LIMIT  : unlimited <DEFAULT>
+ PROC OPEN FILES LIMIT     : 1048576 <DEFAULT>
+ PROC PENDING SIGNAL LIMIT : 64129 <DEFAULT>
+ PROC PERMFILE LIMIT       : unlimited <DEFAULT>
+ PROC STACK LIMIT          : 16384.0 MiB (17179869184) <DEFAULT>
+ PROC VIRTUAL MEMORY LIMIT : unlimited <DEFAULT>
+ MEMORY SIZE (ALLOC)       : unlimited
+ CPU NUM (ALLOC)           : 1
+ ELAPSE TIME (USE)         : 00:00:01 (1)
+ NODE ID (USE)             : 0xFFFF0251 
+ MAX MEMORY SIZE (USE)     : 2.7 MiB (2777088)
+ CPU NUM (USE)             : 1
+ VIRTUAL MEMORY SIZE (USE) : 8006.5 MiB (8395366400)
+ USER CPU TIME (USE)       : 88 ms
+ SYSTEM CPU TIME (USE)     : 163 ms
+ CPU TIME (TOTAL)          : 251 ms
+ DISK SIZE (USE)           : -
+ I/O SIZE                  : 1.8 MB (1765633)
+ FILE I/O SIZE             : 0.8 MB (796462)
+ EXEC INST NUM             : 0
+ EXEC SIMD NUM             : 0
+ PRO START DATE            : 2018/03/09 14:53:51
+ PRO END DATE              : 2018/03/09 14:53:51
+ PRO EXIT CODE             : 0
+ EPI START DATE            : 2018/03/09 14:53:51
+ EPI END DATE              : 2018/03/09 14:53:51
+ EPI EXIT CODE             : 0
+ HOST NAME                 : cx02
+ NODE ID (RANK)            : 0xFFFF0251(0) 
+ MPI STATIC PROC (REQUIRE) : 1
+ MPI PROC (REQUIRE)        : 1
+ MPI STATIC PROC (ALLOC)   : 1
+ MPI PROC (ALLOC)          : 1
+ TOTAL JOB PROC            : 80
+ MAX JOB PROC              : 7
+ ASSISTANT CORE (USE)      : -
+ ASSISTANT CORE USER CPU TIME (USE)       : -
+ ASSISTANT CORE SYSTEM CPU TIME (USE)     : -
+ ASSISTANT CORE MAX USER CPU TIME (USE)   : -
+ ASSISTANT CORE MAX SYSTEM CPU TIME (USE) : -
+ AFFECTED NODE ID          : -
+ BACKFILL                  : 0
+ NUMA POLICY               : 0
+ SPECIFIED JOB START DATE  : -
+ START BULKNO              : -
+ END BULKNO                : -
+
+--------------------------------------------------------------------------------
+VNode Information
+
+ VNODE ID                  : 0
+ NODE ID                   : 0xFFFF0251
+ MEMORY SIZE (LIMIT)       : unlimited <DEFAULT>
+ CPU TIME (LIMIT)          : unlimited <DEFAULT>
+ DISK SIZE (LIMIT)         : unlimited <DEFAULT>
+ MEMORY SIZE (ALLOC)       : unlimited
+ CPU NUM (ALLOC)           : 1
+ MAX MEMORY SIZE (USE)     : 2.7 MiB (2777088)
+ VIRTUAL MEMORY SIZE (USE) : 8006.5 MiB (8395366400)
+ CPU NUM (USE)             : 1
+ USER CPU TIME (USE)       : 88 ms
+ SYSTEM CPU TIME (USE)     : 163 ms
+ CPU TIME (TOTAL)          : 251 ms
+ DISK SIZE (USE)           : -
+ I/O SIZE                  : 1.8 MB (1765633)
+ FILE I/O SIZE             : 0.8 MB (796462)
+ EXEC INST NUM             : 0
+ EXEC SIMD NUM             : 0
+ PERF COUNT 1              : -
+ PERF COUNT 2              : -
+ PERF COUNT 3              : -
+ PERF COUNT 4              : -
+ PERF COUNT 5              : -
+ PERF COUNT 6              : -
+ PERF COUNT 7              : -
+ PERF COUNT 8              : -
+ PERF COUNT 9              : -
+ MPI STATIC PROC (ALLOC)   : 1
+ MPI PROC (ALLOC)          : 1
+ TOTAL JOB PROC            : 80
+ MAX JOB PROC              : 7
+ ASSISTANT CORE (USE)      : -
+ ASSISTANT CORE USER CPU TIME (USE)       : -
+ ASSISTANT CORE SYSTEM CPU TIME (USE)     : -
+ ASSISTANT CORE MAX USER CPU TIME (USE)   : -
+ ASSISTANT CORE MAX SYSTEM CPU TIME (USE) : -
+ CPU BITMAP (ALLOC)        : 0x1000001
+ CPU BITMAP (USE)          : 0x1
+ RANK NO                   : 0
+

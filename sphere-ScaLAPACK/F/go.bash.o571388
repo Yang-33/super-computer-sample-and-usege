@@ -1,0 +1,10 @@
+ TIME[sec] = 0.1489830017089844
+ MFLOPS = 4556.170400527765
+
+ScaLAPACK Example Program -- Sep, 2010
+
+Solving Ax=b where A is a  1000 by  1000 matrix with a block size of  32
+Running on  64 processes, where the process grid is   8 by   8
+
+INFO code returned by PDGESV =   0
+  EPS = 7.936039068433338E-05
